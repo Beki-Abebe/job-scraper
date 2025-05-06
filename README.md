@@ -18,7 +18,7 @@ This is a Playwright-based job scraper that fetches job titles from [afriworket.
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/job-scraper.git
+git clone https://github.com/Beki-Abebe/job-scraper.git
 cd job-scraper
 
 python -m venv venv
