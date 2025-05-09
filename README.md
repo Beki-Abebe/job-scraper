@@ -1,4 +1,6 @@
-# Job Scraper – Job portals in ethioipa that permit this on their robots.txt
+# Job Scraper – Which fetches custom Jobs from Job portals in ethioipa that permit this on their robots.txt.  
+A robots.txt file is a text file placed in the root directory of a website that instructs web crawlers  
+(like Googlebot) which parts of the site they are allowed or disallowed from accessing.
 
 This is a Playwright-based job scraper that fetches job titles from Job portals in ethiopia. 
 It uses Python and Playwright to dynamically interact with the site and extract job listings.
