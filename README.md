@@ -1,6 +1,7 @@
-# Job Scraper – Afriworket.com
+# Job Scraper – Job portals in ethioipa that permit this on their robots.txt
 
-This is a Playwright-based job scraper that fetches job titles from [afriworket.com/jobs](https://afriworket.com/jobs). It uses Python and Playwright to dynamically interact with the site and extract job listings.
+This is a Playwright-based job scraper that fetches job titles from Job portals in ethiopia. 
+It uses Python and Playwright to dynamically interact with the site and extract job listings.
 
 ## Features
 
